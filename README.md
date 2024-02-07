@@ -14,13 +14,13 @@ To run this application, you need to first clone the `getting-started-with-the-d
 Enhance the appearance of the Syncfusion Autocomplete and ComboBox controls; the .NET MAUI framework’s Entry and Editor. Add assistive labels and icons to those input views by just wrapping the entry and input views with the Text Input Layout control.
 
 ### Custom fonts
-[Customize](https://help.syncfusion.com/maui/textinputlayout/custom-icons?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) the font family, font attributes, and text color for the hint text, error text, and helper text.
+[Customize](https://help.syncfusion.com/maui/textinputlayout/custom-icons?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) the font appearance, including size, attributes, and family, for assistive labels like hint, helper, and error within the control.
 
 ### Padding
-Customize the [padding](https://help.syncfusion.com/maui/textinputlayout/container-type#custom-padding?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) around the input view.
+Customize spacing around the input view using InputViewPadding. Tailor the [padding](https://help.syncfusion.com/maui/textinputlayout/container-type#custom-padding?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) to align with your unique design preferences..
 
 ### States
-Indicate the focused, unfocused, error, and disabled [states](https://help.syncfusion.com/maui/textinputlayout/states-and-colors?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) of the control.
+Utilize the VisualStateManager to dynamically adjust the hint text color and border colors based on the control's [states](https://help.syncfusion.com/maui/textinputlayout/states-and-colors?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples), including normal, focused, error, and disabled.
 
 ## Related links
 [Learn More about .NET MAUI Text Input Layout](https://www.syncfusion.com/maui-controls/maui-textinputlayout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
