@@ -1,12 +1,11 @@
 # Getting Started with the .NET MAUI Text Input Layout
-The [.NET MAUI Text Input Layout](https://www.syncfusion.com/maui-controls/maui-textinputlayout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) or Label Entry is a container control that allows users to add floating labels, password toggle icons to show or hide passwords, leading and trailing icons, and assistive labels such as error messages and help text on top of input controls.A quick-start project that helps you to integrate a Text input layout control in the .NET MAUI application. This project contains simple code customizations like how to add floating labels, password toggle icons to show or hide passwords, and assistive labels like error messages and help text on top of input controls.
+The [.NET MAUI Text Input Layout](https://www.syncfusion.com/maui-controls/maui-textinputlayout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples) or Label Entry is a container control that allows users to add floating labels, password toggle icons to show or hide passwords, leading and trailing icons, and assistive labels such as error messages and help text on top of input controls. A quick-start project that helps you to integrate a Text input layout control in the .NET MAUI application. This project contains simple code customizations like how to add floating labels, password toggle icons to show or hide passwords, and assistive labels like error messages and help text on top of input controls.
 
 ## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/ ) with the Dot NET MAUI workload and [.NET Core SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
+Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with the Dot NET MAUI workload and [.NET Core SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
 
 ## How to run this application
 To run this application, you need to first clone the `getting-started-with-the-dotnet-maui-text-input-layout` repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
-
 
 ## Features and Benefits
 
