@@ -30,13 +30,13 @@ Utilize the VisualStateManager to dynamically adjust the hint text color and bor
 
 [Documentation](https://help.syncfusion.com/maui/textinputlayout/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
 
-[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-text-input-layout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
+[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/TextInputLayout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
 
-[Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/TextInputLayout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
+[Online example](https://github.com/SyncfusionExamples/getting-started-with-the-dotnet-maui-text-input-layout?utm_source=github&utm_medium=listing&utm_campaign=maui-text-input-layout-github-samples)
 
 ## About Syncfusion .NET MAUI Components
 
